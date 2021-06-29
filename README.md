@@ -12,3 +12,5 @@ npx cypress open
 ```
 
 Edit `cypres.json` with items shown.
+
+Initial check in contain completed code for project-1.
